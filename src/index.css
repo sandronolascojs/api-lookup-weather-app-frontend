@@ -1,0 +1,16 @@
+:root {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	background: #101010;
+	background-image: radial-gradient(circle at 50% 100%, white 1px, transparent 0);
+	background-size: 40px 40px;
+	background-position: -19px -19px;
+}
