@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URI = 'api-lookup-weather-back.up.railway.app/api/' 
+const URI = 'http://api-lookup-weather-back.up.railway.app/api/' 
 
 export const getUserIp = async () => {
   try {
