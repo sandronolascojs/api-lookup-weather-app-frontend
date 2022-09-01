@@ -1,6 +1,5 @@
 {
   "name": "ip-weather-app",
-  "homepage": "https://sandronolascojs.github.io/api-lookup-weather-app-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
